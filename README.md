@@ -1,8 +1,8 @@
 # My Articles Blogs and Interests and more...
-I am Bhakti, an undergraduate engineering student (2nd year) at Yeshwatrao Chavan College of Engineering, Nagpur, Maharashtra, India. I am a physics and mathematics enthusiast and engineering makes me aware of the real-world applications of both. 
-As much as I love science and its overwhelming questions and mysteries, what interests me the most about it, is the realization that even if I am unable to get to the correct answer to a problem, I will still have something to hold on to and think upon, the fact that you can be wrong but never actually fail while studying science intrigued me and inspired me to choose it as my goal.
+I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College of Engineering, Nagpur, Maharashtra, India. I am a physics and mathematics enthusiast and engineering makes me aware of the real-world applications of both. 
+#### "As much as I love science and its technological impact, its overwhelming questions and mysteries, what interests me the most about it, is the realization that even if I am unable to get to the correct answer to a problem, I will still have something to hold on to and think upon, the fact that you can be wrong but never actually fail while studying science intrigued me and inspired me to choose it as my goal."
 
- ![alt tag](https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/Earthrise.jpg) 
+
 
 Other things and activities that interest me apart from science and technical backgrounds consist of my love for reading and writing. I find it so peaceful and intriguing to interpret a read passage in my own thoughts or in as many multiple ways as possible. Expanding my thought process and connecting it with various other topics is so enlightening. I got a chance to learn more and spread the love of reading when I was part of the Content writing internship. I wrote a lot of articles and published them. 
 
