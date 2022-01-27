@@ -6,7 +6,7 @@ As much as I love science and its overwhelming questions and mysteries, what int
 
 Other things and activities that interest me apart from science and technical backgrounds consist of my love for reading and writing. I find it so peaceful and intriguing to interpret a read passage in my own thoughts or in as many multiple ways as possible. Expanding my thought process and connecting it with various other topics is so enlightening. I got a chance to learn more and spread the love of reading when I was part of the Content writing internship. I wrote a lot of articles and published them. 
 
-
+![alt tag](https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/open-book-universe-reading-fantasy-flat-vector-26660856.jpg)
 
 I also write blogs on medium as a hobby. Links to all of my articles and blogs are listed below:
 | Links to articles published over shouts.site (available on google) |
