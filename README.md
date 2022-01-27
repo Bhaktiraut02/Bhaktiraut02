@@ -2,13 +2,26 @@
 I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College of Engineering, Nagpur, Maharashtra, India. I am a physics and mathematics enthusiast and engineering makes me aware of the real-world applications of both. 
 #### "As much as I love science and its technological impact, its overwhelming questions and mysteries, what interests me the most about it, is the realization that even if I am unable to get to the correct answer to a problem, I will still have something to hold on to and think upon, the fact that you can be wrong but never actually fail while studying science intrigued me and inspired me to choose it as my goal."
 
-![alt tag]()
+<img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/SUPERCOUNDUCTIVITY.jpg" width="500" height="300" />
 
-Other things and activities that interest me apart from science and technical backgrounds consist of my love for reading and writing. I find it so peaceful and intriguing to interpret a read passage in my own thoughts or in as many multiple ways as possible. Expanding my thought process and connecting it with various other topics is so enlightening. I got a chance to learn more and spread the love of reading when I was part of the Content writing internship. I wrote a lot of articles and published them. 
+▶ Littel about me and my interests...
+- I am, Determined, Self-confident, Hopeful and a Believer   
+- I am an avid reader and fond of writing articles and blogs, I write to expand my knowledge, to get to know me, to broaden my mind by analyzing the various perspectives and to spread the love for science.
+- I write Blogs on [Medium](https://medium.com/@rautbhakti0088)
+- Most of my articles are pulished over the [https://shouts.site/] and are easily accessible over google.
+- I am intrigued by the mysteries of the the cosmos, many theories that remain unanswered and dream of contriuting in the developement of reasearch and technologies associated with it ! 
+- I like to spend my time learning new languages
+- I enjoy stargazing and gaining more knowledge related to my interested topics (Particle physics, Astrophysics or physics in general and technologies associated with them)
 
-![alt tag](https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/open-book-universe-reading-fantasy-flat-vector-26660856.jpg)
 
-I also write blogs on medium as a hobby. Links to all of my articles and blogs are listed below:
+------------
+### Skills
+- **Programming Languages:** C, Python
+- **Web Technologies:** HTML, CSS
+- **Languages:** French, Russian
+- **Internships:** Content Writing (Samagra Foundation), Subject Matter Expert (Advanced Mathematics at FreeCo eduventures)
+- **Project based traning Internship:** Machine Learning and AI (Microsoft)
+
 | Links to articles published over shouts.site (available on google) |
 | ------------- |
 |https://shouts.site/universe-started-with-a-bang-but-what-before-that/ |
@@ -28,10 +41,3 @@ I also write blogs on medium as a hobby. Links to all of my articles and blogs a
 |https://shouts.site/10-best-online-courses-to-boost-your-cv/ |
 |https://shouts.site/what-it-takes-to-get-into-foreign-universities/ |
 
-| Medium Blogs  |
-| ------------- |
-|https://rautbhakti0088.medium.com/key-to-positive-and-growth-mindset-93cd29a12fb2 |
-|https://rautbhakti0088.medium.com/game-of-choices-178638bfcf89 |
-
-As for my other interests, learning, observing, and clicking pictures of my surroundings and natural ambiance is my favorite activity. 
-I have just started learning animation and realized how much I enjoy spending time on related projects and tasks.  Skygazing, learning new languages and for sports, playing volleyball and badminton are some other activities I enjoy doing.
