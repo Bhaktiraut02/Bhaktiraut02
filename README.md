@@ -22,8 +22,8 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 - **Web Technologies:** HTML, CSS
 - **Languages:** French, Russian
 - **Other Skills:** Content Development, SEO (Search Engine Optimization), OrCad, MATLAB, MultiSim.
- <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/SUPERCOUNDUCTIVITY.jpg" />
 
+<img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/stylized-volunteers-help-charity-sharing-260nw-1766931404.jpg" />
  
  ------------
  ### Internships and Courses undertaken
@@ -31,11 +31,15 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 - **Project based traning Internship:** Machine Learning and AI (Microsoft)
 - **Courses:** Python for eyeryody (Cousera), Special Theory of Relativity (Coursera), Science of Solar System (Coursera), Calculus (Outlier)
 
+<img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/stylized-volunteers-help-charity-sharing-260nw-1766931404.jpg" />
+
+
 ------------
 ### Volunteering Experience
 - [Team Everest](https://www.teameverest.ngo/about) (Curriculum developemet for children of rural schools)
 - [Earth Hero](https://www.earthhero.org/)
 - iNaturalist (Naturalist)
+
 
 ------------
 
