@@ -4,7 +4,6 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 
 <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/SUPERCOUNDUCTIVITY.jpg" width="500" height="300" />
 
-
 ------------
 ▶ Littel about me and my interests...
 - I am, Determined, Self-confident, Hopeful and a Believer   
@@ -15,6 +14,7 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 - I like to spend my time learning new languages
 - I enjoy stargazing and gaining more knowledge related to my interested topics (Particle physics, Astrophysics or physics in general, technologies associated with them and ancient civilizations)
 
+<img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/1_HLGtY6O2vUHqIyEbWdmBgA.jpeg" width="500" height="300"/>
 
 ------------
 ### Skills
@@ -24,7 +24,7 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 - **Other Skills:** Content Development, SEO (Search Engine Optimization), OrCad, MATLAB, MultiSim.
 
 <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/stylized-volunteers-help-charity-sharing-260nw-1766931404.jpg" />
- 
+
  ------------
  ### Internships and Courses undertaken
 - **Internships:** Content Writing (Samagra Foundation), Subject Matter Expert (Advanced Mathematics at FreeCo eduventures)
@@ -32,7 +32,6 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 - **Courses:** Python for eyeryody (Cousera), Special Theory of Relativity (Coursera), Science of Solar System (Coursera), Calculus (Outlier)
 
 <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/stylized-volunteers-help-charity-sharing-260nw-1766931404.jpg" />
-
 
 ------------
 ### Volunteering Experience
