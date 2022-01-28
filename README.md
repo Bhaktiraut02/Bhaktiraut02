@@ -11,7 +11,7 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 - I write Blogs on [Medium](https://medium.com/@rautbhakti0088)
 - Most of my articles are pulished over the [https://shouts.site/] and are easily accessible over google.
 - I am intrigued by the mysteries of the the cosmos and many theories that remain unanswered. I dream of contriuting in the developement of reasearch and technologies associated with it ! 
-- I like to spend my time learning new languages
+- I like to spend my time learning new languages and like to create animations (currently learning Animation)
 - I enjoy stargazing and gaining more knowledge related to my interested topics (Particle physics, Astrophysics or physics in general, technologies associated with them and ancient civilizations)
 
 <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/1_HLGtY6O2vUHqIyEbWdmBgA.jpeg" width="500" height="300"/>
@@ -23,7 +23,7 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 - **Languages:** French, Russian
 - **Other Skills:** Content Development, SEO (Search Engine Optimization), OrCad, MATLAB, MultiSim.
 
-<img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/stylized-volunteers-help-charity-sharing-260nw-1766931404.jpg" />
+<img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/Header_The_coevolution_of_particle_physics_and_computing.jpeg" width="500" height="300"/>
 
  ------------
  ### Internships and Courses undertaken
@@ -37,15 +37,10 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 ### Volunteering Experience
 - [Team Everest](https://www.teameverest.ngo/about) (Curriculum developemet for children of rural schools)
 - [Earth Hero](https://www.earthhero.org/)
-- iNaturalist (Naturalist)
-
+- [iNaturalist](https://www.inaturalist.org/) (Naturalist)
 
 ------------
-
-
-
-
-
+### Links to my articles
 | Links to articles published over shouts.site (available on google) |
 | ------------- |
 |https://shouts.site/universe-started-with-a-bang-but-what-before-that/ |
@@ -64,4 +59,8 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 |https://shouts.site/increase-in-screen-time-and-its-effects/ |
 |https://shouts.site/10-best-online-courses-to-boost-your-cv/ |
 |https://shouts.site/what-it-takes-to-get-into-foreign-universities/ |
+
+------------
+### Links 
+LinkedIn profile: [Bhakti Raut](www.linkedin.com/in/bhakti-raut-57888b227)
 
