@@ -5,7 +5,7 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/SUPERCOUNDUCTIVITY.jpg" width="500" height="300" />
 
 ------------
-▶ Littel about me and my interests...
+▶ Insight about me and my interests...
 - I am, Determined, Self-confident, Hopeful and a Believer   
 - I am an avid reader and fond of writing articles and blogs, I write to expand my knowledge, to get to know me and to broaden my mind and point of view by analyzing the various perspectives and to spread the love for science.
 - I write Blogs on [Medium](https://medium.com/@rautbhakti0088)
