@@ -29,8 +29,8 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
  ------------
  ### Internships and Courses undertaken
 - **Internships:** Content Writing (Samagra Foundation), Subject Matter Expert (Advanced Mathematics at FreeCo eduventures)
-- **Project based traning Internship:** Machine Learning and AI (Microsoft)
-- **Courses:** Python for eyeryody (Cousera), Special Theory of Relativity (Coursera), Science of Solar System (Coursera), Calculus (Outlier)
+- **Project based traning Internship:** Machine Learning and AI (using Python)(Microsoft)
+- **Courses:** Python for eyeryody (Cousera), Special Theory of Relativity (Coursera), Science of Solar System (Coursera), Calculus (Outlier), MATLAB, OrCAD, MultiSim
 
 <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/stylized-volunteers-help-charity-sharing-260nw-1766931404.jpg" />
 
