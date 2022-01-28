@@ -4,14 +4,16 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 
 <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/SUPERCOUNDUCTIVITY.jpg" width="500" height="300" />
 
+
+------------
 ▶ Littel about me and my interests...
 - I am, Determined, Self-confident, Hopeful and a Believer   
-- I am an avid reader and fond of writing articles and blogs, I write to expand my knowledge, to get to know me, to broaden my mind by analyzing the various perspectives and to spread the love for science.
+- I am an avid reader and fond of writing articles and blogs, I write to expand my knowledge, to get to know me and to broaden my mind and point of view by analyzing the various perspectives and to spread the love for science.
 - I write Blogs on [Medium](https://medium.com/@rautbhakti0088)
 - Most of my articles are pulished over the [https://shouts.site/] and are easily accessible over google.
-- I am intrigued by the mysteries of the the cosmos, many theories that remain unanswered and dream of contriuting in the developement of reasearch and technologies associated with it ! 
+- I am intrigued by the mysteries of the the cosmos and many theories that remain unanswered. I dream of contriuting in the developement of reasearch and technologies associated with it ! 
 - I like to spend my time learning new languages
-- I enjoy stargazing and gaining more knowledge related to my interested topics (Particle physics, Astrophysics or physics in general and technologies associated with them)
+- I enjoy stargazing and gaining more knowledge related to my interested topics (Particle physics, Astrophysics or physics in general, technologies associated with them and ancient civilizations)
 
 
 ------------
@@ -19,8 +21,27 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 - **Programming Languages:** C, Python
 - **Web Technologies:** HTML, CSS
 - **Languages:** French, Russian
+- **Other Skills:** Content Development, SEO (Search Engine Optimization), OrCad, MATLAB, MultiSim.
+ <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/SUPERCOUNDUCTIVITY.jpg" />
+
+ 
+ ------------
+ ### Internships and Courses undertaken
 - **Internships:** Content Writing (Samagra Foundation), Subject Matter Expert (Advanced Mathematics at FreeCo eduventures)
 - **Project based traning Internship:** Machine Learning and AI (Microsoft)
+- **Courses:** Python for eyeryody (Cousera), Special Theory of Relativity (Coursera), Science of Solar System (Coursera), Calculus (Outlier)
+
+------------
+### Volunteering Experience
+- [Team Everest](https://www.teameverest.ngo/about) (Curriculum developemet for children of rural schools)
+- [Earth Hero](https://www.earthhero.org/)
+- iNaturalist (Naturalist)
+
+------------
+
+
+
+
 
 | Links to articles published over shouts.site (available on google) |
 | ------------- |
