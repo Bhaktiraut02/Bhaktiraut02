@@ -9,7 +9,7 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 - I am, Determined, Self-confident, Hopeful and a Believer   
 - I am an avid reader and fond of writing articles and blogs, I write to expand my knowledge, to get to know me and to broaden my mind and point of view by analyzing the various perspectives and to spread the love for science.
 - I write Blogs on [Medium](https://medium.com/@rautbhakti0088)
-- Most of my articles are pulished over the [https://shouts.site/] and are easily accessible over google.
+- Most of my articles are pulished over the [shouts.site](https://shouts.site/) and are easily accessible over google.
 - Member of [Galaxy Cruise](https://galaxycruise.mtk.nao.ac.jp/en/) a citizen science project. 
 - I am intrigued by the mysteries of the the cosmos and many theories that remain unanswered. I dream of contriuting in the developement of reasearch and technologies associated with it ! 
 - I like to spend my time learning new languages and like to create animations (currently learning Animation)
