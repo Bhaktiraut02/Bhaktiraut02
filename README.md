@@ -2,7 +2,7 @@
 I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College of Engineering, Nagpur, Maharashtra, India. I am a physics and mathematics enthusiast and engineering makes me aware of the real-world applications of both. 
 #### "As much as I love science and its technological impact, its overwhelming questions and mysteries, what interests me the most about it, is the realization that even if I am unable to get to the correct answer to a problem, I will still have something to hold on to and think upon, the fact that you can be wrong but never actually fail while studying science intrigued me and inspired me to choose it as my goal."
 
-<img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/SUPERCOUNDUCTIVITY.jpg" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/Header_The_coevolution_of_particle_physics_and_computing.jpeg" width="500" height="300"/>
 
 ------------
 ▶ Insight about me and my interests...
@@ -15,30 +15,43 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 - I like to spend my time learning new languages and like to create animations (currently learning Animation)
 - I enjoy stargazing and gaining more knowledge related to my interested topics (Particle physics, Astrophysics or physics in general, technologies associated with them and ancient civilizations)
 
-<img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/1_HLGtY6O2vUHqIyEbWdmBgA.jpeg" width="500" height="300"/>
 
 ------------
 ### Skills
-- **Programming Languages:** C, Python
-- **Web Technologies:** HTML, CSS
-- **Languages:** French, Russian
+- **Programming Languages:** C, Python (intermediate)
+- **Web Technologies:** HTML(intermediate), CSS (intermediate)
+- **Languages:** French (intermediate) , Russian (beginner)
 - **Other Skills:** Content Development, SEO (Search Engine Optimization), OrCad, MATLAB, MultiSim.
 
-<img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/Header_The_coevolution_of_particle_physics_and_computing.jpeg" width="500" height="300"/>
 
  ------------
  ### Internships and Courses undertaken
-- **Internships:** Content Writing (Samagra Foundation), Subject Matter Expert (Advanced Mathematics at FreeCo eduventures)
-- **Project based traning Internship:** Machine Learning and AI (using Python)(Microsoft)
-- **Courses:** Python for eyeryody (Cousera), Special Theory of Relativity (Coursera), Science of Solar System (Coursera), Calculus (Outlier), MATLAB, OrCAD, MultiSim
+**Internships:** 
+- Content Writing at [Samagra Foundation](https://samagrafoundation.com/)
+
+I worked at the Content writers position at Samagra foundation. This intership gave me opportunity to explore my love for writing and helped me reach out to a wider group of people. This internship not just exposed me to real-time work experience but also allowed me to explore my knowledge and post articles about trending topics related to Science, Tech, Politics, environment, etc. on Google and the Shouts site. 
+- Subject Matter Expert (Advanced Mathematics at [FreeCo eduventures](http://www.freeco.co.in/))
+
+As a Subject Matter Expert (SME), I developed solutions for questions related to Advanced Mathematics.
+
+**Project based traning Internship:**  Machine Learning and AI (using Python)(Certified by Microsoft)
+
+**Courses:** 
+- [Python for eyeryody](https://www.coursera.org/specializations/python) (University of Michigan,Cousera)
+- [Special Theory of Relativity](https://www.coursera.org/learn/einstein-relativity?=) (Stanford University, Cousera)
+- [Science of Solar System](https://www.coursera.org/learn/solar-system) (CalTech, Coursera)
+- [Calculus](https://www.outlier.org/products/calculus-i) (Outlier)
+
+Undertook the Calculus-I course on the Outlier platform (Offered by the University of Pittsburgh). Upon completion of this semester-long course in mathematics, I received an official transcript from the University of Pittsburgh. This course introduced me to some advanced calculus topics, building my fundamentals in mathematics.
+- MATLAB, OrCAD, MultiSim
 
 <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/stylized-volunteers-help-charity-sharing-260nw-1766931404.jpg" />
 
 ------------
 ### Volunteering Experience
 - [Team Everest](https://www.teameverest.ngo/about) (Curriculum developemet for children of rural schools)
-- [Earth Hero](https://www.earthhero.org/)
-- [iNaturalist](https://www.inaturalist.org/) (Naturalist)
+- [Earth Hero](https://www.earthhero.org/):  An active member of the Earth Hero community as a part of this community I volunteer and check my and my surrounding CO2 emissions and I have an active goal of planting at least 2 trees a month, cleaning my area, and spreading awareness for the same.
+- [iNaturalist](https://www.inaturalist.org/) (Naturalist):  Observing and recording various flora and fauna species in the surrounding area.
 
 ------------
 ### Links to my articles
