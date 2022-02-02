@@ -25,7 +25,7 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 
 
  ------------
- ### Internships and Courses undertaken
+ ### Internships and Courses
 **Internships:** 
 - Content Writing at [Samagra Foundation](https://samagrafoundation.com/)
 
@@ -37,9 +37,11 @@ As a Subject Matter Expert (SME), I developed solutions for questions related to
 **Project based traning Internship:**  Machine Learning and AI (using Python)(Certified by Microsoft)
 
 **Courses:** 
-- [Python for eyeryody](https://www.coursera.org/specializations/python) (University of Michigan,Cousera)
-- [Special Theory of Relativity](https://www.coursera.org/learn/einstein-relativity?=) (Stanford University, Cousera)
+- [Python for eyeryody](https://www.coursera.org/specializations/python) (University of Michigan,Coursera)
+- [Digital Systems: From Logic Gates to Processors](https://www.coursera.org/learn/digital-systems?) (Coursera)
+- [Special Theory of Relativity](https://www.coursera.org/learn/einstein-relativity?=) (Stanford University, Coursera)
 - [Science of Solar System](https://www.coursera.org/learn/solar-system) (CalTech, Coursera)
+- [Particle Physics: an Introduction](https://www.coursera.org/learn/particle-physics?) (University of Geneva, Coursera)
 - [Calculus](https://www.outlier.org/products/calculus-i) (Outlier)
 
 Undertook the Calculus-I course on the Outlier platform (Offered by the University of Pittsburgh). Upon completion of this semester-long course in mathematics, I received an official transcript from the University of Pittsburgh. This course introduced me to some advanced calculus topics, building my fundamentals in mathematics.
