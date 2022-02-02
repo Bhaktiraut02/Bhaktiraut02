@@ -34,7 +34,7 @@ I worked at the Content writers position at Samagra foundation. This intership g
 
 As a Subject Matter Expert (SME), I developed solutions for questions related to Advanced Mathematics.
 
-**Project based traning Internship:**  Machine Learning and AI (using Python)(Certified by Microsoft)
+**Project based training Internship:**  Machine Learning and AI (using Python)(Certified by Microsoft)
 
 **Courses:** 
 - [Python for eyeryody](https://www.coursera.org/specializations/python) (University of Michigan,Coursera)
