@@ -27,7 +27,7 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
  ------------
  ### Internships and Courses
 **Internships:** 
-- Content Writing at [Samagra Foundation](https://samagrafoundation.com/)
+- Content Writer at [Samagra Foundation](https://samagrafoundation.com/)
 
 I worked at the Content writers position at Samagra foundation. This intership gave me opportunity to explore my love for writing and helped me reach out to a wider group of people. This internship not just exposed me to real-time work experience but also allowed me to explore my knowledge and post articles about trending topics related to Science, Tech, Politics, environment, etc. on Google and the Shouts site. 
 - Subject Matter Expert (Advanced Mathematics at [FreeCo eduventures](http://www.freeco.co.in/))
