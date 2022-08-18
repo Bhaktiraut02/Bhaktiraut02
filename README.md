@@ -1,5 +1,5 @@
 # Greetings...
-I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College of Engineering, Nagpur, Maharashtra, India. I am a physics and mathematics enthusiast and engineering makes me aware of the real-world applications of both. 
+I am Bhakti Raut, an engineering student (3rd year) at Yeshwatrao Chavan College of Engineering, Nagpur, Maharashtra, India. I am a physics and mathematics enthusiast and engineering makes me aware of the real-world applications of both. 
 #### "As much as I love science and its technological impact, its overwhelming questions and mysteries, what interests me the most about it, is the realization that even if I am unable to get to the correct answer to a problem, I will still have something to hold on to and think upon, the fact that you can be wrong but never actually fail while studying science intrigued me and inspired me to choose it as my goal."
 
 <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/Header_The_coevolution_of_particle_physics_and_computing.jpeg" width="500" height="300"/>
@@ -19,6 +19,7 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
 ------------
 ### Skills
 - **Programming Languages:** C, Python (intermediate)
+- **Qiskit (IBM):** Quantum Computing (Currently learning)
 - **Web Technologies:** HTML(intermediate), CSS (intermediate)
 - **Languages:** French (intermediate) , Russian (beginner)
 - **Other Skills:** Content Development, SEO (Search Engine Optimization), OrCad, MATLAB, MultiSim.
@@ -27,6 +28,12 @@ I am Bhakti Raut, an engineering student (2nd year) at Yeshwatrao Chavan College
  ------------
  ### Internships and Courses
 **Internships:** 
+- Internship Trainee: Machine Learning and AI (using Python) offered by Microsoft [Project Based]
+
+During the course of this two months long internship I enhanced my python programming skills along with gaining an Hands on experience of ML algorithms. I successfully developed the final project for Internship Completeion titled 'Heart Disease Prediction Model'.
+- Intership Trainee at [Acmegrade](https://acmegrade.com/)
+
+I completed this 2 mpnths Internship of Internet of Things (IoT) and gained advanced knowledge of IoT fundamentals, its components and learned how to work on embedded technologies like Arduino and Arduino IDE.
 - Content Writer at [Samagra Foundation](https://samagrafoundation.com/)
 
 I worked at the Content writers position at Samagra foundation. This intership gave me opportunity to explore my love for writing and helped me reach out to a wider group of people. This internship not just exposed me to real-time work experience but also allowed me to explore my knowledge and post articles about trending topics related to Science, Tech, Politics, environment, etc. on Google and the Shouts site. 
@@ -48,6 +55,12 @@ Undertook the Calculus-I course on the Outlier platform (Offered by the Universi
 - MATLAB, OrCAD, MultiSim
 
 <img align="right" alt="GIF" src="https://github.com/Bhaktiraut02/My-Articles-Blogs-and-Interests-and-more.../blob/main/stylized-volunteers-help-charity-sharing-260nw-1766931404.jpg" />
+
+------------
+### Current Roles and Positions
+- Citizen Scientist at [CERN](https://lhcathome.cern.ch/lhcathome/)
+- Citizen Scientist and Astronomer at [NAOJ](https://www.google.com/search?gs_ssp=eJzj4tTP1TcwNSqxzDZgtFI1qDAzMLRITUtLTLY0tzQzNzW0MqhIM04zt7Q0SkpMNDFLNrEw9GLJS8zPAgCltQ9G&q=naoj&oq=NAOJ&aqs=chrome.1.0i355i512j46i175i199i512j0i512l3j46i175i199i512l3j46i512j0i512.4645j0j7&sourceid=chrome&ie=UTF-8) [Galaxy Cruise](https://galaxycruise.mtk.nao.ac.jp/en/)
+- Citizen Scientist at [The Globe Program (NASA)](https://www.globe.gov/)
 
 ------------
 ### Volunteering Experience
