@@ -30,7 +30,7 @@ I am Bhakti Raut, an engineering student (3rd year) at Yeshwatrao Chavan College
 **Internships:** 
 - Internship Trainee: Machine Learning and AI (using Python) offered by Microsoft [Project Based]
 
-During the course of this two months long internship I enhanced my python programming skills along with gaining an Hands on experience of ML algorithms. I successfully developed the final project for Internship Completeion titled 'Heart Disease Prediction Model'.
+During the course of this two months long internship I enhanced my python programming skills along with gaining an Hands on experience of ML algorithms. I successfully developed the final project for Internship Completeion titled [Heart Disease Prediction Model](https://github.com/Bhaktiraut02/Heart-Disease-Predictor-Model).
 - Intership Trainee at [Acmegrade](https://acmegrade.com/)
 
 I completed this 2 mpnths Internship of Internet of Things (IoT) and gained advanced knowledge of IoT fundamentals, its components and learned how to work on embedded technologies like Arduino and Arduino IDE.
